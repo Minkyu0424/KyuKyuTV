@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-go/static/js/main.ae88f3bc.js",
-    "index.html": "/react-go/index.html",
-    "main.ae88f3bc.js.map": "/react-go/static/js/main.ae88f3bc.js.map"
+    "main.js": "/kyukyutv/static/js/main.99da76a4.js",
+    "index.html": "/kyukyutv/index.html",
+    "main.99da76a4.js.map": "/kyukyutv/static/js/main.99da76a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae88f3bc.js"
+    "static/js/main.99da76a4.js"
   ]
 }
