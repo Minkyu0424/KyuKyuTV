@@ -23,7 +23,7 @@ function Home() {
       ) : (
         <div>
           {movies.map((movie) => (
-            <Movie
+            <Movie // prop으로 넘겨줌
               key={movie.id}
               id={movie.id}
               medium_cover_image={movie.medium_cover_image}
