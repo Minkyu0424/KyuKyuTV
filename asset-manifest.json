@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-go.git/static/js/main.3eb640b6.js",
-    "index.html": "/react-go.git/index.html",
-    "main.3eb640b6.js.map": "/react-go.git/static/js/main.3eb640b6.js.map"
+    "main.js": "/react-go/static/js/main.ae88f3bc.js",
+    "index.html": "/react-go/index.html",
+    "main.ae88f3bc.js.map": "/react-go/static/js/main.ae88f3bc.js.map"
   },
   "entrypoints": [
-    "static/js/main.3eb640b6.js"
+    "static/js/main.ae88f3bc.js"
   ]
 }
